@@ -14,6 +14,7 @@ Our group created a translation and dictionary web-based application. The web ap
 
 **Live URL Link:** [Deployed Link](https://phillipkujawa.github.io/dictionary-translator-project1/)
 
+
 Developers:
 
 **Phillip Kujawa:** [Github Profile](https://github.com/phillipkujawa)
