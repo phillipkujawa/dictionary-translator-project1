@@ -14,13 +14,15 @@ Our group created a translation and dictionary web-based application. The web ap
 
 **Live URL Link:** [Deployed Link](https://phillipkujawa.github.io/dictionary-translator-project1/)
 
-Phillip Kujawa: [Github Profile](https://github.com/phillipkujawa)
+Developers:
 
-Tian Guo: [Github Profile](https://github.com/gtotaku-tg)
+**Phillip Kujawa:** [Github Profile](https://github.com/phillipkujawa)
 
-Jung In Kim: [Github Profile](https://github.com/Heaveness)
+**Tian Guo:** [Github Profile](https://github.com/gtotaku-tg)
 
-Arun Kaushal: [Github Profile](https://github.com/Arunkaushal84)
+**Jung In Kim:** [Github Profile](https://github.com/Heaveness)
+
+**Arun Kaushal:** [Github Profile](https://github.com/Arunkaushal84)
 
 ## Previews
 ![Alt text](assets/images/screenshot1.png) ![Alt text](assets/images/screenshot2.png) ![Alt text](assets/images/screenshot3.png) ![Alt text](assets/images/screenshot4.png)
